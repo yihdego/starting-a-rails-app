@@ -31,11 +31,12 @@ Instructions to initialize a rails app to my preferred settings.
 4. Add HTTP Client and normalize to css
   add httparty and normalize-rails to Gemfile
   
-   **Gemfile**
+  ```ruby
     # HTTP Client
     gem 'httparty'
     # Akin to normalize css file
     gem 'normalize-rails'
+  ```
 
 
 5. Add testing Gems.
