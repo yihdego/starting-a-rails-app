@@ -82,5 +82,5 @@ Instructions to initialize a rails app to my preferred settings.
   git push -u origin master
   ```
 
-7. Start adding your own code.
-  Apart from ensuring all your tools are in place, doing all the install steps up front gives you a good point to compare back to later
+7. Have fun
+  Dont forget to take breaks ;)
